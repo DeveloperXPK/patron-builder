@@ -1,6 +1,6 @@
 # Patrón Builder: configurador de carro
 
-Este es un proyecto básico en Java para practicar el patrón Builder. La idea es crear un carro paso a paso, escogiendo el motor, la pintura, la carrocería, los rines y si tiene GPS.
+Este es un proyecto básico en Java para practicar el patrón Builder. La idea es configurar algunas características del carro (Como si estuviéramos en una página web configurando un carro que queremos comprar),escogiendo el motor, la pintura, la carrocería, los rines y si tiene GPS.
 
 También hay tres configuraciones ya definidas: económico, gama media y gama alta. Además, se puede crear un carro personalizado.
 
